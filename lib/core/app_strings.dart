@@ -1,0 +1,35 @@
+class AppsStrings {
+  static const appName = "ToDo";
+  static const watchlist = "Watchlist";
+  static const delete = "🗑️ Delete";
+  static const deleteTask = "🗑️ Delete Task";
+  static const emptyList = "ToDo List Is Empty";
+  static const markComplete = "Marked as complete";
+  static const markInComplete = "Marked as Incomplete";
+  static const deleteSuccess = "removed from Todo";
+  static const addSuccess = "added to Todo";
+  static const addTask = "Add a task";
+  static const  name= "Name";
+  static const  hour= "Hour";
+  static const  am= "AM";
+  static const  pm= "PM";
+  static const  today= "Today";
+  static const  done= "Done";
+  static const  note= "If you disable today, the task will be considered as tomorrow";
+  static const  close= "Close";
+  static const  task= "Task";
+  static const  tomorrow= "Tomorrow";
+  static const  hideCompleted= "Hide completed";
+  static const  showCompleted= "Show completed";
+  static const  warning= "Are you sure you want to delete the current task";
+  static const  yes= "Yes";
+  static const  no= "No";
+  static const  todayNoTask= "No tasks for today!";
+  static const  tomorrowNoTask= "No tasks for tomorrow!";
+  static const  enterName= "Enter Your Name";
+  static const emptyName = "⚠️ Name cannot be empty";
+  static const cancel="Cancel";
+  static const error = "❌ Error";
+  static const ok="Ok";
+  static const undo="Undo";
+ }
